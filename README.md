@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamKashifHussain
 - 👀 I’m interested in modern technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development Machine Learning
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
